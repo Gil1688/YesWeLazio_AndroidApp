@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Yes We Lazio</string>
+    <string name="logo_description">Logo di Yes We Lazio</string>
+    <string name="firstLinePost">This is a good post, I hope it will have two lines. Please give me two lines.</string>
+    <string name="secondLinePost">April 22nd, 2014</string>
+    <string name="release_to_refresh">Rilasciare</string>
+    <string name="pull_to_refresh">Premere</string>
+    <string name="loading">Caricamento in corso</string>
+    <string name="footer_loading">Leggi ancora</string>
+    <string name="app_url">http://www.yeswelazio.it/public</string>
+    <string name="main_button_news">Vai alle News</string>
+
+</resources>
